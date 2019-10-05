@@ -1,0 +1,2 @@
+## [![Connect with me on LinkedIn](https://github.com/armyguyinfl/biography/blob/master/static/media/face-daniel.d286c5eb.jpeg)](https://linkedin.com/in/dkowalec/?url=armyguyinfl.github.io/biography) [Daniel Kowalec's Bootstrap React Profile](https://armyguyinfl.github.io/biography/)
+### ![Connect with me on LinkedIn](https://raw.githubusercontent.com/armyguyinfl/biography/master/favicon.ico) [LinkedIn Connect](https://linkedin.com/in/dkowalec/?url=armyguyinfl.github.io/biography)
