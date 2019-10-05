@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/biography/static/css/main.46605319.chunk.css",
+    "main.js": "/biography/static/js/main.0d472d92.chunk.js",
+    "main.js.map": "/biography/static/js/main.0d472d92.chunk.js.map",
+    "runtime~main.js": "/biography/static/js/runtime~main.6f1af508.js",
+    "runtime~main.js.map": "/biography/static/js/runtime~main.6f1af508.js.map",
+    "static/css/2.0624914a.chunk.css": "/biography/static/css/2.0624914a.chunk.css",
+    "static/js/2.458d86f2.chunk.js": "/biography/static/js/2.458d86f2.chunk.js",
+    "static/js/2.458d86f2.chunk.js.map": "/biography/static/js/2.458d86f2.chunk.js.map",
+    "index.html": "/biography/index.html",
+    "precache-manifest.fa35cdc5798ff69308248d62530f9a17.js": "/biography/precache-manifest.fa35cdc5798ff69308248d62530f9a17.js",
+    "service-worker.js": "/biography/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/biography/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.46605319.chunk.css.map": "/biography/static/css/main.46605319.chunk.css.map",
+    "static/media/pe-icon-7-stroke.css": "/biography/static/media/Pe-icon-7-stroke.c45f7de0.svg",
+    "static/media/avatar-background-coding_75x400.jpeg": "/biography/static/media/avatar-background-coding_75x400.3a9e5f15.jpeg",
+    "static/media/face-daniel.jpeg": "/biography/static/media/face-daniel.d286c5eb.jpeg",
+    "static/media/reactlogo.png": "/biography/static/media/reactlogo.9b864b36.png",
+    "static/media/sidebar-1.jpg": "/biography/static/media/sidebar-1.6be21e8a.jpg",
+    "static/media/sidebar-2.jpg": "/biography/static/media/sidebar-2.7a4ce7cc.jpg",
+    "static/media/sidebar-3.jpg": "/biography/static/media/sidebar-3.34535b95.jpg",
+    "static/media/sidebar-4.jpg": "/biography/static/media/sidebar-4.7bc259fd.jpg"
+  }
+}
